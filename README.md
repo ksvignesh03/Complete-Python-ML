@@ -1,2 +1,2 @@
-# Complete-Python-ML
+# Complete-Python
 EDA &amp; ML Algorithm
